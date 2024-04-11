@@ -1,0 +1,8 @@
+.container-contact {
+    background-image: url('/src/comp/Bgimg/ugly_tree.jpg'); 
+    background-size: cover;
+    background-position: center;
+  }
+  .row-contact{
+    color: aliceblue;
+  }

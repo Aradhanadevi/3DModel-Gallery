@@ -1,0 +1,8 @@
+.row-about{
+    color: whitesmoke;
+  }
+  .container-about {
+    background-image: url('/src/comp/Bgimg/candlebra.jpg'); 
+    background-size: cover;
+    background-position: center;
+  }

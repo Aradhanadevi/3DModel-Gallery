@@ -1,0 +1,28 @@
+.faq-page {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .faq-title {
+    text-align: center;
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 30px;
+  }
+  
+  .faq-item {
+    margin-bottom: 20px;
+  }
+  
+  .question {
+    font-size: 18px;
+    color: #444;
+  }
+  
+  .answer {
+    font-size: 16px;
+    color: #666;
+  }
+  
