@@ -15,8 +15,8 @@ export const Contact = () => {
               <div className="col-md-6">
                 <h4>Contact Information:</h4>
                 <ul>
-                  <li>Email: aradhana81@gmail.com.com</li>
-                  <li>Phone: (91) 79847-10020</li>
+                  <li>Email: email@gmail.com.com</li>
+                  <li>Phone:  00000-00000</li>
                   <li>Address: Sharu section road, Jamnagar, India</li>
                 </ul>
               </div>
