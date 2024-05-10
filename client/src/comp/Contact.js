@@ -17,7 +17,7 @@ export const Contact = () => {
                 <ul>
                   <li>Email: email@gmail.com.com</li>
                   <li>Phone:  00000-00000</li>
-                  <li>Address: Sharu section road, Jamnagar, India</li>
+                  <li>Address:address</li>
                 </ul>
               </div>
               <div className="col-md-6">
